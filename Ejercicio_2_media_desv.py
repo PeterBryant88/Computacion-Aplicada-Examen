@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import norm
 
-# Abre el archivo
+# Abre el archivo, se necesita el archivo d2.txt del Repositorio
 with open('d2.txt', 'r') as archivo:
     # Inicializa las tres listas
     lista_num1 = []
